@@ -124,6 +124,7 @@ APIs:             Claude API | OpenAI API | REST | GraphQL
 |---|---|---|---|
 | 1 | **Claude + OpenClaw AI Agents Portfolio** | Production-ready AI agent implementations with Claude AI, OpenClaw AI, multi-agent orchestration, automation workflows, API integrations, and cloud deployment | [View Repo](https://github.com/tannu64/claude-openclaw-ai-agents) |
 | 2 | **AI Legal Workflow Agents** | Multi-agent system for automating law firm & professional service operations -- client intake, follow-up sequences, case management, n8n orchestration, CRM & calendar integrations | [View Repo](https://github.com/tannu64/ai-legal-workflow-agents) |
+| 3 | **Secure OpenClaw Messaging Integration** | Production-grade secure OpenClaw AI deployment with Telegram, WhatsApp, Slack & Discord integration -- end-to-end encryption, multi-channel routing, n8n automation, GDPR/HIPAA compliance | [View Repo](https://github.com/tannu64/openclaw-secure-messaging-integration) |
 
 ---
 

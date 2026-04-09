@@ -1,4 +1,4 @@
-# Claude + OpenClaw AI Agent Development Portfolio
+# Claude + OpenClaw AI Agent Development
 
 **AI Agent Developer | Multi-Agent Systems | Claude AI | OpenClaw AI | Automation & Scaling**
 

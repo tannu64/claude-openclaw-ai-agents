@@ -132,6 +132,7 @@ APIs:             Claude API | OpenAI API | REST | GraphQL
 | 8 | **Claude Code Secure Automation Pipeline** | Production automation with Claude Code + OpenClaw -- secure deployment, CI/CD pipelines, secrets management, API integration, agent safety guardrails, testing & monitoring | [View Repo](https://github.com/tannu64/claude-code-secure-automation-pipeline) |
 | 9 | **Automated Financial Dashboard (Google Sheets)** | Automated financial tracking system -- Stripe revenue sync, COGS & OpEx tracking, P&L dashboard, KPI metrics, Zapier/Make.com automation, Google Apps Script reports, weekly/monthly email summaries | [View Repo](https://github.com/tannu64/ai-financial-dashboard-automation) |
 | 10 | **AI Automation & Productivity Engineering** | Enterprise workflow automation -- n8n pipelines, Playwright browser automation, LLM intelligence workflows, PostgreSQL/BigQuery data pipelines, internal AI agents, Slack/email notifications | [View Repo](https://github.com/tannu64/ai-automation-productivity-engineering) |
+| 11 | **AI Voice & Chat Automation Agents** | AI voice agents with Twilio telephony, ElevenLabs voice AI, website live chat, WhatsApp/Telegram sync, human handover system, IVR automation, RAG knowledge base, multi-channel customer support | [View Repo](https://github.com/tannu64/ai-voice-chat-automation-agents) |
 
 ---
 

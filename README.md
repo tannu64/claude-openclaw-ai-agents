@@ -127,6 +127,8 @@ APIs:             Claude API | OpenAI API | REST | GraphQL
 | 3 | **Secure OpenClaw Messaging Integration** | Production-grade secure OpenClaw AI deployment with Telegram, WhatsApp, Slack & Discord integration -- end-to-end encryption, multi-channel routing, n8n automation, GDPR/HIPAA compliance | [View Repo](https://github.com/tannu64/openclaw-secure-messaging-integration) |
 | 4 | **AI Website Assistant with OpenClaw** | Full-stack AI chatbot assistant for business websites -- OpenClaw integration, RAG knowledge base, real-time chat widget, analytics dashboard, multi-industry deployment | [View Repo](https://github.com/tannu64/ai-website-assistant-openclaw) |
 | 5 | **OpenCLAW Cloud Deployment & AI Agents** | Secure cloud infrastructure setup for OpenCLAW with custom AI agents for scheduling, court date tracking, Google Ads automation, marketing optimization, and business process automation | [View Repo](https://github.com/tannu64/openclaw-cloud-ai-agent-deployment) |
+| 6 | **Automated Client Booking & CRM Workflow** | End-to-end client automation system -- booking engine, e-signature contracts, auto-invoicing, email sequences, payment processing, post-service feedback, CRM pipeline | HoneyBook, Dubsado, Zapier, Make.com, n8n | [View Repo](https://github.com/tannu64/automated-client-booking-crm-workflow) |
+| 7 | **AI Community Matching & Subscription Automation** | No-code community matching platform -- multi-step signup, Stripe subscription billing, Airtable CRM, Claude API monthly matching, Brevo personalized emails, Make.com automation | [View Repo](https://github.com/tannu64/ai-community-matching-automation) |
 
 ---
 

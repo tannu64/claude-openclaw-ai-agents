@@ -129,6 +129,7 @@ APIs:             Claude API | OpenAI API | REST | GraphQL
 | 5 | **OpenCLAW Cloud Deployment & AI Agents** | Secure cloud infrastructure setup for OpenCLAW with custom AI agents for scheduling, court date tracking, Google Ads automation, marketing optimization, and business process automation | [View Repo](https://github.com/tannu64/openclaw-cloud-ai-agent-deployment) |
 | 6 | **Automated Client Booking & CRM Workflow** | End-to-end client automation system -- booking engine, e-signature contracts, auto-invoicing, email sequences, payment processing, post-service feedback, CRM pipeline | HoneyBook, Dubsado, Zapier, Make.com, n8n | [View Repo](https://github.com/tannu64/automated-client-booking-crm-workflow) |
 | 7 | **AI Community Matching & Subscription Automation** | No-code community matching platform -- multi-step signup, Stripe subscription billing, Airtable CRM, Claude API monthly matching, Brevo personalized emails, Make.com automation | [View Repo](https://github.com/tannu64/ai-community-matching-automation) |
+| 8 | **Claude Code Secure Automation Pipeline** | Production automation with Claude Code + OpenClaw -- secure deployment, CI/CD pipelines, secrets management, API integration, agent safety guardrails, testing & monitoring | [View Repo](https://github.com/tannu64/claude-code-secure-automation-pipeline) |
 
 ---
 
